@@ -40,7 +40,7 @@ A React-based Doctor Directory application that displays detailed doctor profile
 
 ## 📦 How to Run Locally
 
-    git clone https://github.com/your-username/doctor-directory.git
+    git clone git@github.com:arun250/niroassessment.git
     cd doctor-directory
     npm install
     npm run dev
@@ -59,4 +59,12 @@ A React-based Doctor Directory application that displays detailed doctor profile
       "rating": 4.8,
       "image": "https://randomuser.me/api/portraits/women/65.jpg"
     }
+## Screenshot
 
+|Home Page|
+
+<img src="https://res.cloudinary.com/diejm0elz/image/upload/v1754272996/Bildschirmfoto_2025-08-04_um_07.31.31_rsscij.png" width= "400">
+
+|Profile Page |
+
+<img src="https://res.cloudinary.com/diejm0elz/image/upload/v1754272995/Bildschirmfoto_2025-08-04_um_07.31.59_j6deik.png" width= "400">
