@@ -1,0 +1,692 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sean Harrison",
+    "qualification": "DNB, DGO",
+    "specialty": "Orthopedic",
+    "experience": "15 years",
+    "hospital": "Mullins-Marquez Hospital",
+    "clinicAddress": "USNV Gardner, FPO AP 36186",
+    "location": "Williammouth",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "license": "Q227976",
+    "expertise": [
+      "Fractures",
+      "Knee Replacement",
+      "Arthritis"
+    ],
+    "about": "Young respond man step why soon grow half provide claim.",
+    "image": "https://randomuser.me/api/portraits/women/10.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 2,
+    "name": "Dr. Luke Pennington",
+    "qualification": "MD, DGO",
+    "specialty": "Neurologist",
+    "experience": "5 years",
+    "hospital": "Perez Inc Hospital",
+    "clinicAddress": "USCGC Hodge, FPO AP 48483",
+    "location": "Watsonport",
+    "languages": [
+      "Hindi",
+      "Punjabi"
+    ],
+    "license": "Y165661",
+    "expertise": [
+      "Stroke",
+      "Epilepsy",
+      "Parkinson's"
+    ],
+    "about": "Condition large new side what owner such instead system its analysis scientist behind win deep clear food.",
+    "image": "https://randomuser.me/api/portraits/men/49.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Dr. Justin Green",
+    "qualification": "MS, PhD",
+    "specialty": "Pediatrician",
+    "experience": "20 years",
+    "hospital": "West, Conley and Jones Hospital",
+    "clinicAddress": "628 Thompson Stravenue Suite 519, Spearsville, VA 06259",
+    "location": "Port Joseph",
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "license": "H793492",
+    "expertise": [
+      "Immunization",
+      "Neonatal Care",
+      "Growth Monitoring"
+    ],
+    "about": "Southern peace number method hospital develop news product yet degree candidate attention many third medical baby risk memory maintain.",
+    "image": "https://randomuser.me/api/portraits/women/15.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Dr. Kristie Mills",
+    "qualification": "DNB, PhD",
+    "specialty": "Dentist",
+    "experience": "8 years",
+    "hospital": "Mendez Ltd Hospital",
+    "clinicAddress": "9123 Aaron Skyway Apt. 978, Ramirezport, UT 01981",
+    "location": "West Tara",
+    "languages": [
+      "Telugu",
+      "Bengali"
+    ],
+    "license": "P502305",
+    "expertise": [
+      "Braces",
+      "Root Canal",
+      "Teeth Whitening"
+    ],
+    "about": "Road Mr everything receive contain about growth during country whatever step star across certain allow.",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Dr. Scott Green",
+    "qualification": "DNB, DGO",
+    "specialty": "Orthopedic",
+    "experience": "24 years",
+    "hospital": "Chavez, Smith and Rogers Hospital",
+    "clinicAddress": "1081 Angela Pass Apt. 293, Taylorview, SD 31311",
+    "location": "East Hayley",
+    "languages": [
+      "Telugu",
+      "Hindi"
+    ],
+    "license": "C760270",
+    "expertise": [
+      "Fractures",
+      "Knee Replacement",
+      "Arthritis"
+    ],
+    "about": "Blood choice authority go wall prevent gas can newspaper customer day green nation success enjoy.",
+    "image": "https://randomuser.me/api/portraits/women/55.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Dr. Margaret Sloan",
+    "qualification": "MBBS, MCh",
+    "specialty": "Urologist",
+    "experience": "16 years",
+    "hospital": "Green, Jones and Watkins Hospital",
+    "clinicAddress": "4309 Perez Circles Apt. 614, East Lindsayfort, AZ 02056",
+    "location": "Jessicaburgh",
+    "languages": [
+      "Telugu",
+      "Kannada"
+    ],
+    "license": "R838484",
+    "expertise": [
+      "Kidney Stones",
+      "UTI",
+      "Prostate Issues"
+    ],
+    "about": "Performance party drop southern fact radio stand sing smile oil.",
+    "image": "https://randomuser.me/api/portraits/men/13.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "Dr. Jesse Mitchell",
+    "qualification": "MBBS, DGO",
+    "specialty": "Urologist",
+    "experience": "15 years",
+    "hospital": "Jenkins, Larsen and Hayes Hospital",
+    "clinicAddress": "1250 Gardner Mills, East Samanthashire, KS 61092",
+    "location": "Lisaport",
+    "languages": [
+      "Gujarati",
+      "Bengali"
+    ],
+    "license": "H234239",
+    "expertise": [
+      "Kidney Stones",
+      "UTI",
+      "Prostate Issues"
+    ],
+    "about": "Pm few tough important structure to country experience anyone idea meet western indicate former particular onto natural foot.",
+    "image": "https://randomuser.me/api/portraits/men/67.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 8,
+    "name": "Dr. Frances Russell",
+    "qualification": "MBBS, PhD",
+    "specialty": "ENT Specialist",
+    "experience": "17 years",
+    "hospital": "Ruiz Inc Hospital",
+    "clinicAddress": "400 Adams Light Apt. 745, Donaldport, MN 13360",
+    "location": "Lake Lindsey",
+    "languages": [
+      "Hindi",
+      "Kannada"
+    ],
+    "license": "R261344",
+    "expertise": [
+      "Sinus",
+      "Hearing Loss",
+      "Throat Infection"
+    ],
+    "about": "Want month least across bag consider power meet kid air manager list firm close concern card member.",
+    "image": "https://randomuser.me/api/portraits/women/89.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 9,
+    "name": "Dr. Linda Taylor",
+    "qualification": "MD, DM",
+    "specialty": "Neurologist",
+    "experience": "11 years",
+    "hospital": "Morris, Carter and Robinson Hospital",
+    "clinicAddress": "6793 Orr Path, Gilbertton, TN 56566",
+    "location": "Peckville",
+    "languages": [
+      "Gujarati",
+      "Bengali"
+    ],
+    "license": "D919106",
+    "expertise": [
+      "Stroke",
+      "Epilepsy",
+      "Parkinson's"
+    ],
+    "about": "Interview past return boy like design feel court international get cultural majority high see environmental.",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "name": "Dr. Paula Ramos",
+    "qualification": "MS, MCh",
+    "specialty": "Gynecologist",
+    "experience": "21 years",
+    "hospital": "Reynolds-Marshall Hospital",
+    "clinicAddress": "1170 Ford Dale Apt. 758, North Alyssa, RI 93295",
+    "location": "West Josephfurt",
+    "languages": [
+      "Gujarati",
+      "Telugu"
+    ],
+    "license": "J546758",
+    "expertise": [
+      "Pregnancy",
+      "Menopause",
+      "PCOS"
+    ],
+    "about": "Time reduce commercial family project national despite rest member nor then cause between.",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 11,
+    "name": "Dr. James Meyer",
+    "qualification": "MD, DM",
+    "specialty": "Urologist",
+    "experience": "17 years",
+    "hospital": "Gonzales-Gill Hospital",
+    "clinicAddress": "3139 Ryan Cliff Apt. 772, Robertland, PA 17085",
+    "location": "East Eric",
+    "languages": [
+      "Tamil",
+      "English"
+    ],
+    "license": "A180549",
+    "expertise": [
+      "Kidney Stones",
+      "UTI",
+      "Prostate Issues"
+    ],
+    "about": "Chance man mother middle medical rest little own value night one accept action heart she yes ball back set.",
+    "image": "https://randomuser.me/api/portraits/women/58.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Dr. Wendy Anderson",
+    "qualification": "MD, DGO",
+    "specialty": "Psychiatrist",
+    "experience": "6 years",
+    "hospital": "Clark-Cooper Hospital",
+    "clinicAddress": "228 Sara Port Suite 516, South Madelineville, ID 14064",
+    "location": "Williamsbury",
+    "languages": [
+      "Telugu",
+      "Gujarati"
+    ],
+    "license": "Y966904",
+    "expertise": [
+      "Depression",
+      "Anxiety",
+      "OCD"
+    ],
+    "about": "Tough test military edge fill sea past sign plan white wish training mission.",
+    "image": "https://randomuser.me/api/portraits/men/25.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "name": "Dr. Andrew Ortiz",
+    "qualification": "MS, PhD",
+    "specialty": "Dentist",
+    "experience": "24 years",
+    "hospital": "Gonzalez, Fitzpatrick and Oliver Hospital",
+    "clinicAddress": "07461 Harris Brooks, West Breanna, FL 85476",
+    "location": "Mccarthyfort",
+    "languages": [
+      "Telugu",
+      "Punjabi"
+    ],
+    "license": "A602108",
+    "expertise": [
+      "Braces",
+      "Root Canal",
+      "Teeth Whitening"
+    ],
+    "about": "Now blue name care condition message every simply purpose actually most meeting reach moment western feeling of.",
+    "image": "https://randomuser.me/api/portraits/men/84.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "name": "Dr. Jason Campbell",
+    "qualification": "MD, MCh",
+    "specialty": "Gynecologist",
+    "experience": "6 years",
+    "hospital": "Brown, Hall and Berger Hospital",
+    "clinicAddress": "20594 Linda Trace, Lake Holly, NH 70371",
+    "location": "Jeffreybury",
+    "languages": [
+      "Bengali",
+      "Punjabi"
+    ],
+    "license": "J383121",
+    "expertise": [
+      "Pregnancy",
+      "Menopause",
+      "PCOS"
+    ],
+    "about": "Government himself own natural reality reach product store poor.",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 15,
+    "name": "Dr. Nicole Weber",
+    "qualification": "MS, DGO",
+    "specialty": "Dentist",
+    "experience": "7 years",
+    "hospital": "Williams-Santiago Hospital",
+    "clinicAddress": "1240 Hamilton Lights, Jasonview, MT 35146",
+    "location": "Moonmouth",
+    "languages": [
+      "Tamil",
+      "Punjabi"
+    ],
+    "license": "L279771",
+    "expertise": [
+      "Braces",
+      "Root Canal",
+      "Teeth Whitening"
+    ],
+    "about": "Industry people history perhaps leader protect operation beat better positive keep goal.",
+    "image": "https://randomuser.me/api/portraits/women/67.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 16,
+    "name": "Dr. Kelly Jennings",
+    "qualification": "DNB, MCh",
+    "specialty": "Urologist",
+    "experience": "19 years",
+    "hospital": "Brown, Everett and Jordan Hospital",
+    "clinicAddress": "200 James Hollow Suite 040, North Matthew, IN 27709",
+    "location": "East Lisaborough",
+    "languages": [
+      "Tamil",
+      "Punjabi"
+    ],
+    "license": "I989790",
+    "expertise": [
+      "Kidney Stones",
+      "UTI",
+      "Prostate Issues"
+    ],
+    "about": "Across good offer sort successful Mrs assume mind occur claim season age appear contain ready sing situation could.",
+    "image": "https://randomuser.me/api/portraits/men/61.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 17,
+    "name": "Dr. Michelle Diaz",
+    "qualification": "DNB, DGO",
+    "specialty": "Orthopedic",
+    "experience": "23 years",
+    "hospital": "George, Johnson and Powers Hospital",
+    "clinicAddress": "1678 Dillon Mill, Brianchester, SD 67088",
+    "location": "Jasmineview",
+    "languages": [
+      "Telugu",
+      "Punjabi"
+    ],
+    "license": "N447301",
+    "expertise": [
+      "Fractures",
+      "Knee Replacement",
+      "Arthritis"
+    ],
+    "about": "Camera religious only effort himself drive indeed those window scene part trial his her anyone join trial.",
+    "image": "https://randomuser.me/api/portraits/women/79.jpg",
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Dr. Jesus Howard",
+    "qualification": "MD, PhD",
+    "specialty": "Neurologist",
+    "experience": "21 years",
+    "hospital": "Ross, Lawrence and Bruce Hospital",
+    "clinicAddress": "9558 Turner Pike, Angelaton, WI 62904",
+    "location": "Port Adam",
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "license": "U711135",
+    "expertise": [
+      "Stroke",
+      "Epilepsy",
+      "Parkinson's"
+    ],
+    "about": "Drive mission reality simple site choose notice truth through each conference special these rise sell pressure thousand political open mouth visit.",
+    "image": "https://randomuser.me/api/portraits/women/24.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 19,
+    "name": "Dr. Richard Phillips Jr.",
+    "qualification": "MBBS, DM",
+    "specialty": "ENT Specialist",
+    "experience": "10 years",
+    "hospital": "Mitchell-Woodard Hospital",
+    "clinicAddress": "404 Alexander Mission, Owenfurt, AL 95746",
+    "location": "West Allisonview",
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "license": "A814496",
+    "expertise": [
+      "Sinus",
+      "Hearing Loss",
+      "Throat Infection"
+    ],
+    "about": "Believe culture performance star someone color yard structure others scientist poor teach movie prevent administration according view prove evening or.",
+    "image": "https://randomuser.me/api/portraits/men/52.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 20,
+    "name": "Dr. Christian Mitchell",
+    "qualification": "DNB, DM",
+    "specialty": "Dermatologist",
+    "experience": "7 years",
+    "hospital": "Miller-Robinson Hospital",
+    "clinicAddress": "545 Hale Burg, West Jocelynberg, WA 72463",
+    "location": "Johnnyborough",
+    "languages": [
+      "Telugu",
+      "Punjabi"
+    ],
+    "license": "N863199",
+    "expertise": [
+      "Acne",
+      "Psoriasis",
+      "Skin Allergy"
+    ],
+    "about": "Human million cell itself prepare so child marriage develop teacher shake offer operation career town indicate support capital.",
+    "image": "https://randomuser.me/api/portraits/women/89.jpg",
+    "rating": 3.8
+  },
+  {
+    "id": 21,
+    "name": "Dr. Douglas Murphy",
+    "qualification": "MD, MCh",
+    "specialty": "Cardiologist",
+    "experience": "11 years",
+    "hospital": "Vaughan Group Hospital",
+    "clinicAddress": "2677 Rogers Roads Suite 671, Francoview, OK 10322",
+    "location": "North Michaelafort",
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "license": "Z337294",
+    "expertise": [
+      "ECG",
+      "Heart Failure",
+      "Hypertension"
+    ],
+    "about": "Leg rest report popular also important paper thus trial turn.",
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "rating": 3.7
+  },
+  {
+    "id": 22,
+    "name": "Dr. Chad Simmons",
+    "qualification": "DNB, DGO",
+    "specialty": "Cardiologist",
+    "experience": "25 years",
+    "hospital": "Goodwin, Archer and Jackson Hospital",
+    "clinicAddress": "8486 Courtney Wells, North Latasha, DC 02198",
+    "location": "New Travismouth",
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "license": "C335593",
+    "expertise": [
+      "ECG",
+      "Heart Failure",
+      "Hypertension"
+    ],
+    "about": "Cultural employee card open executive enter report side point weight detail.",
+    "image": "https://randomuser.me/api/portraits/women/67.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 23,
+    "name": "Dr. David Griffin",
+    "qualification": "MBBS, PhD",
+    "specialty": "Dentist",
+    "experience": "9 years",
+    "hospital": "Krause, Perkins and Shaw Hospital",
+    "clinicAddress": "810 Robert Glen, Port Jacobland, KY 30603",
+    "location": "Lake Patricktown",
+    "languages": [
+      "Punjabi",
+      "Gujarati"
+    ],
+    "license": "U104651",
+    "expertise": [
+      "Braces",
+      "Root Canal",
+      "Teeth Whitening"
+    ],
+    "about": "One action hot fire at news foot even think agree goal opportunity whatever loss.",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 24,
+    "name": "Dr. Sara Arroyo",
+    "qualification": "DNB, DM",
+    "specialty": "Cardiologist",
+    "experience": "17 years",
+    "hospital": "Coleman, Cox and Burton Hospital",
+    "clinicAddress": "799 Burns Inlet Apt. 331, New Jason, KS 11330",
+    "location": "East Ricardo",
+    "languages": [
+      "Tamil",
+      "Telugu"
+    ],
+    "license": "L836128",
+    "expertise": [
+      "ECG",
+      "Heart Failure",
+      "Hypertension"
+    ],
+    "about": "Central record without whose moment list traditional success likely health town once process rich factor.",
+    "image": "https://randomuser.me/api/portraits/women/34.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 25,
+    "name": "Dr. Mrs. Laurie May",
+    "qualification": "DNB, PhD",
+    "specialty": "ENT Specialist",
+    "experience": "18 years",
+    "hospital": "Lane-Cook Hospital",
+    "clinicAddress": "419 Kevin Prairie, Timothyshire, NH 42031",
+    "location": "New Kimberly",
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "license": "V136413",
+    "expertise": [
+      "Sinus",
+      "Hearing Loss",
+      "Throat Infection"
+    ],
+    "about": "Wall tell relate individual soldier eye account occur score news what of citizen service indicate.",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": 26,
+    "name": "Dr. John Miller",
+    "qualification": "MS, DM",
+    "specialty": "Orthopedic",
+    "experience": "19 years",
+    "hospital": "Hamilton, Ellis and Duncan Hospital",
+    "clinicAddress": "00120 Allen Burgs Suite 767, West Elizabethborough, ME 06236",
+    "location": "Lake Anna",
+    "languages": [
+      "Kannada",
+      "Hindi"
+    ],
+    "license": "N902933",
+    "expertise": [
+      "Fractures",
+      "Knee Replacement",
+      "Arthritis"
+    ],
+    "about": "Message nor turn create term best during very body some.",
+    "image": "https://randomuser.me/api/portraits/men/77.jpg",
+    "rating": 5.0
+  },
+  {
+    "id": 27,
+    "name": "Dr. Danny Martinez",
+    "qualification": "MBBS, MCh",
+    "specialty": "Urologist",
+    "experience": "23 years",
+    "hospital": "Moody-Nguyen Hospital",
+    "clinicAddress": "PSC 0770, Box 8874, APO AP 14851",
+    "location": "Port Michael",
+    "languages": [
+      "Gujarati",
+      "Punjabi"
+    ],
+    "license": "L673237",
+    "expertise": [
+      "Kidney Stones",
+      "UTI",
+      "Prostate Issues"
+    ],
+    "about": "Price system when here beat product catch cost her top see grow reflect wall for across quality area.",
+    "image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 28,
+    "name": "Dr. James Bryant",
+    "qualification": "DNB, DM",
+    "specialty": "Pediatrician",
+    "experience": "15 years",
+    "hospital": "Griffith, Miller and Bauer Hospital",
+    "clinicAddress": "125 Victoria Drive Apt. 873, Riceshire, IA 55101",
+    "location": "North William",
+    "languages": [
+      "Kannada",
+      "Punjabi"
+    ],
+    "license": "A526121",
+    "expertise": [
+      "Immunization",
+      "Neonatal Care",
+      "Growth Monitoring"
+    ],
+    "about": "And suggest offer sport thank yard sense large child property exist she because produce region successful pretty.",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "rating": 3.6
+  },
+  {
+    "id": 29,
+    "name": "Dr. Jason Lee",
+    "qualification": "MD, MCh",
+    "specialty": "Psychiatrist",
+    "experience": "23 years",
+    "hospital": "Holt, Richardson and Wilson Hospital",
+    "clinicAddress": "696 Clark Meadows, East Christinechester, FL 83756",
+    "location": "Griffinland",
+    "languages": [
+      "Kannada",
+      "Punjabi"
+    ],
+    "license": "U952894",
+    "expertise": [
+      "Depression",
+      "Anxiety",
+      "OCD"
+    ],
+    "about": "Gun consumer power security memory should now bag entire think nation population.",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "rating": 3.9
+  },
+  {
+    "id": 30,
+    "name": "Dr. Kyle Cobb",
+    "qualification": "MD, MCh",
+    "specialty": "Cardiologist",
+    "experience": "14 years",
+    "hospital": "Henry, Moore and West Hospital",
+    "clinicAddress": "42562 Linda Islands Apt. 346, Lindaland, NM 34257",
+    "location": "Port Anthony",
+    "languages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "license": "V405637",
+    "expertise": [
+      "ECG",
+      "Heart Failure",
+      "Hypertension"
+    ],
+    "about": "Past conference language add buy lose data entire result help success position spend lead.",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "rating": 4.4
+  }
+]
