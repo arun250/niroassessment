@@ -47,7 +47,7 @@ Video Link: https://drive.google.com/file/d/10QZwFXdqla5E4QexphMPYq0kRqZVvvyP/vi
 
 ## 📦 How to Run Locally
 
-    git clone git@github.com:arun250/niroassessment.git
+    git clone 
     cd doctor-directory
     npm install
     npm run dev
