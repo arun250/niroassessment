@@ -1,12 +1,62 @@
-# React + Vite
+# 🩺 Doctor Directory App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based Doctor Directory application that displays detailed doctor profiles, allows searching by name/specialty, and enables users to book appointments for video consultations.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search doctors by name or specialty
+- 🧑‍⚕️ View detailed doctor profile with:
+  - Name, specialty, qualifications, license
+  - Location, languages spoken
+  - About section, expertise, clinic address
+  - Rating and image
+- 📅 Book Appointment:
+  - Patient Name, Email, Date/Time
+  - Confirmation message on submission
+- 🖥️ Video Appointment button that links to the appointment form
+- Fully responsive UI using TailwindCSS
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React, Tailwind CSS
+- **Routing**: React Router
+- **Mock Data**: JSON file (`Doctors.json`)
+- **Form Handling**: React useState
+
+## 📁 Project Structure
+
+    src/
+    ├── components/
+    │ ├── Header.jsx # List of all doctors with search
+    │ ├── DoctorCard.jsx # Individual doctor card UI
+    │ ├── LandingPage.jsx # Detailed view of doctor info
+    │ └── ProfilePage.jsx # Form to book an appointment
+    ├── public/
+    │ └── Doctors.json
+    ├── App.jsx
+    └── index.js
+
+
+
+## 📦 How to Run Locally
+
+    git clone https://github.com/your-username/doctor-directory.git
+    cd doctor-directory
+    npm install
+    npm run dev
+##    Example Mock Data
+    {
+      "id": 1,
+      "name": "Dr. Asha Mehta",
+      "qualification": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiologist",
+      "expertise": "Heart failure, Arrhythmia",
+      "about": "20+ years of experience in treating complex cardiac conditions.",
+      "license": "GJ/MC/4521",
+      "languages": ["English", "Hindi", "Gujarati"],
+      "location": "Ahmedabad, Gujarat",
+      "clinic_address": "HeartCare Clinic, Satellite, Ahmedabad",
+      "rating": 4.8,
+      "image": "https://randomuser.me/api/portraits/women/65.jpg"
+    }
+
