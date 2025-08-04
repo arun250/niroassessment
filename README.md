@@ -2,6 +2,9 @@
 
 A React-based Doctor Directory application that displays detailed doctor profiles, allows searching by name/specialty, and enables users to book appointments for video consultations.
 
+## Published Url:  https://niroass.netlify.app/
+
+
 ## 🚀 Features
 
 - 🔍 Search doctors by name or specialty
